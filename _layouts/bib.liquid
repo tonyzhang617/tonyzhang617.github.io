@@ -257,6 +257,21 @@
       {% endif %}
     </div>
     {% if site.enable_publication_badges %}
+      {% assign entry_has_github_badge = false %}
+        {% if entry.github and entry.github != 'false' %}
+          {% assign entry_has_github_badge = true %}
+      {% endif %}
+
+      {% assign entry_has_pypi_badge = false %}
+      {% if entry.pypi and entry.pypi != 'false' %}
+        {% assign entry_has_pypi_badge = true %}
+      {% endif %}
+
+      {% assign entry_has_hf_badge = false %}
+      {% if entry.hf and entry.hf != 'false' %}
+        {% assign entry_has_hf_badge = true %}
+      {% endif %}
+
       {% assign entry_has_altmetric_badge = false %}
       {% if entry.altmetric and entry.altmetric != 'false' %}
         {% assign entry_has_altmetric_badge = true %}
@@ -276,8 +291,26 @@
       {% if entry.inspirehep_id %}
         {% assign entry_has_inspirehep_badge = true %}
       {% endif %}
-      {% if entry_has_altmetric_badge or entry_has_dimensions_badge or entry_has_google_scholar_badge or entry_has_inspirehep_badge %}
+      {% if entry_has_github_badge or entry_has_pypi_badge or entry_has_hf_badge or entry_has_altmetric_badge or entry_has_dimensions_badge or entry_has_google_scholar_badge or entry_has_inspirehep_badge %}
         <div class="badges">
+          {% if site.enable_publication_badges.github and entry_has_github_badge %}
+            <a href="https://github.com/{{ entry.github }}">
+              <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/{{ entry.github }}">
+            </a>
+          {% endif %}
+          {% if site.enable_publication_badges.pypi and entry_has_pypi_badge %}
+            <a
+              href="https://pepy.tech/projects/{{ entry.pypi }}"
+            ><img
+              src="https://static.pepy.tech/personalized-badge/{{ entry.pypi }}?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=PyPI+Downloads"
+              alt="PyPI Downloads"
+            ></a>
+          {% endif %}
+          {% if site.enable_publication_badges.hf and entry_has_hf_badge %}
+            <a href="https://huggingface.co/{{ entry.hf }}">
+              <img alt="Hugging Face repo" src="https://img.shields.io/badge/-HuggingFace-3B4252?style=flat&logo=huggingface">
+            </a>
+          {% endif %}
           {% if site.enable_publication_badges.altmetric and entry_has_altmetric_badge %}
             <span
               class="altmetric-embed"
