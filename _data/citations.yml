@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-19'
+  last_updated: '2026-01-21'
 papers:
   ekRl428AAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -10,7 +10,7 @@ papers:
     title: Compression Algorithms for Efficient Inference and Adaptation of Foundation Models
     year: '2025'
   ekRl428AAAAJ:5nxA0vEk-isC:
-    citations: 3
+    citations: 2
     title: 'Sketch to Adapt: Fine-Tunable Sketches for Efficient LLM Adaptation'
     year: '2025'
   ekRl428AAAAJ:M3ejUd6NZC8C:
@@ -18,7 +18,7 @@ papers:
     title: '70% Size, 100% Accuracy: Lossless LLM Compression for Efficient GPU Inference via Dynamic-Length Float (DFloat11)'
     year: '2025'
   ekRl428AAAAJ:MXK_kJrjxJIC:
-    citations: 310
+    citations: 311
     title: 'Stop overthinking: A survey on efficient reasoning for large language models'
     year: '2025'
   ekRl428AAAAJ:Se3iqnhoufwC:
@@ -30,11 +30,11 @@ papers:
     title: "InvMixer\u2014An efficient deep neural network for seismic inversion"
     year: '2023'
   ekRl428AAAAJ:W7OEmFMy1HYC:
-    citations: 61
+    citations: 60
     title: 'KV Cache is 1 Bit Per Channel: Efficient Large Language Model Inference with Coupled Quantization'
     year: '2024'
   ekRl428AAAAJ:WF5omc3nYNoC:
-    citations: 16
+    citations: 15
     title: 'LeanQuant: Accurate and Scalable Large Language Model Quantization with Loss-error-aware Grid'
     year: '2025'
   ekRl428AAAAJ:Y0pCki6q_DkC:
@@ -46,7 +46,7 @@ papers:
     title: 'CoVE: Compressed Vocabulary Expansion Makes Better LLM-based Recommender Systems'
     year: '2025'
   ekRl428AAAAJ:YsMSGLbcyi4C:
-    citations: 19
+    citations: 18
     title: 'Nomad-attention: Efficient llm inference on cpus through multiply-add-free attention'
     year: '2024'
   ekRl428AAAAJ:_kc_bZDykSQC:
@@ -66,7 +66,7 @@ papers:
     title: 'IDentity with Locality: An Ideal Hash for Gene Sequence Search'
     year: '2025'
   ekRl428AAAAJ:qxL8FJ1GzNcC:
-    citations: 11
+    citations: 10
     title: 'I3s: Importance sampling subspace selection for low-rank optimization in llm pretraining'
     year: '2025'
   ekRl428AAAAJ:u-x6o8ySG0sC:
