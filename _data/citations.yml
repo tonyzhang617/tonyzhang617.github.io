@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-26'
+  last_updated: '2026-01-28'
 papers:
   ekRl428AAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: 'Sketch to Adapt: Fine-Tunable Sketches for Efficient LLM Adaptation'
     year: '2025'
   ekRl428AAAAJ:M3ejUd6NZC8C:
-    citations: 11
+    citations: 13
     title: '70% Size, 100% Accuracy: Lossless LLM Compression for Efficient GPU Inference via Dynamic-Length Float (DFloat11)'
     year: '2025'
   ekRl428AAAAJ:MXK_kJrjxJIC:
@@ -30,7 +30,7 @@ papers:
     title: "InvMixer\u2014An efficient deep neural network for seismic inversion"
     year: '2023'
   ekRl428AAAAJ:W7OEmFMy1HYC:
-    citations: 61
+    citations: 62
     title: 'KV Cache is 1 Bit Per Channel: Efficient Large Language Model Inference with Coupled Quantization'
     year: '2024'
   ekRl428AAAAJ:WF5omc3nYNoC:
@@ -50,7 +50,7 @@ papers:
     title: 'Nomad-attention: Efficient llm inference on cpus through multiply-add-free attention'
     year: '2024'
   ekRl428AAAAJ:_kc_bZDykSQC:
-    citations: 0
+    citations: 1
     title: To Compress or Not? Pushing the Frontier of Lossless GenAI Model Weights Compression with Exponent Concentration
     year: '2025'
   ekRl428AAAAJ:eQOLeE2rZwMC:
