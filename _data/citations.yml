@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-04'
+  last_updated: '2026-02-06'
 papers:
   ekRl428AAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -14,11 +14,11 @@ papers:
     title: 'Sketch to Adapt: Fine-Tunable Sketches for Efficient LLM Adaptation'
     year: '2025'
   ekRl428AAAAJ:M3ejUd6NZC8C:
-    citations: 14
+    citations: 15
     title: '70% Size, 100% Accuracy: Lossless LLM Compression for Efficient GPU Inference via Dynamic-Length Float (DFloat11)'
     year: '2025'
   ekRl428AAAAJ:MXK_kJrjxJIC:
-    citations: 324
+    citations: 327
     title: 'Stop overthinking: A survey on efficient reasoning for large language models'
     year: '2025'
   ekRl428AAAAJ:Se3iqnhoufwC:
