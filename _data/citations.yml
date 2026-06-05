@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-13'
+  last_updated: '2026-06-05'
 papers:
   ekRl428AAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -14,11 +14,11 @@ papers:
     title: 'Sketch to Adapt: Fine-Tunable Sketches for Efficient LLM Adaptation'
     year: '2025'
   ekRl428AAAAJ:M3ejUd6NZC8C:
-    citations: 28
+    citations: 30
     title: '70% Size, 100% Accuracy: Lossless LLM Compression for Efficient GPU Inference via Dynamic-Length Float (DFloat11)'
     year: '2025'
   ekRl428AAAAJ:MXK_kJrjxJIC:
-    citations: 458
+    citations: 483
     title: 'Stop overthinking: A survey on efficient reasoning for large language models'
     year: '2025'
   ekRl428AAAAJ:Se3iqnhoufwC:
@@ -34,11 +34,11 @@ papers:
     title: 'KV Cache is 1 Bit Per Channel: Efficient Large Language Model Inference with Coupled Quantization'
     year: '2024'
   ekRl428AAAAJ:WF5omc3nYNoC:
-    citations: 23
+    citations: 25
     title: 'LeanQuant: Accurate and Scalable Large Language Model Quantization with Loss-error-aware Grid'
     year: '2025'
   ekRl428AAAAJ:Y0pCki6q_DkC:
-    citations: 10
+    citations: 11
     title: Learning scalable structural representations for link prediction with bloom signatures
     year: '2024'
   ekRl428AAAAJ:YOwf2qJgpHMC:
@@ -50,7 +50,7 @@ papers:
     title: 'Nomad-attention: Efficient llm inference on cpus through multiply-add-free attention'
     year: '2024'
   ekRl428AAAAJ:_kc_bZDykSQC:
-    citations: 4
+    citations: 5
     title: To Compress or Not? Pushing the Frontier of Lossless GenAI Model Weights Compression with Exponent Concentration
     year: '2025'
   ekRl428AAAAJ:eQOLeE2rZwMC:
@@ -70,7 +70,7 @@ papers:
     title: 'IDentity with Locality: An Ideal Hash for Gene Sequence Search'
     year: '2025'
   ekRl428AAAAJ:qxL8FJ1GzNcC:
-    citations: 13
+    citations: 14
     title: 'I3s: Importance sampling subspace selection for low-rank optimization in llm pretraining'
     year: '2025'
   ekRl428AAAAJ:u-x6o8ySG0sC:
