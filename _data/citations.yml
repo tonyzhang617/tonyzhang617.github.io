@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-22'
+  last_updated: '2026-06-24'
 papers:
   ekRl428AAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -18,7 +18,7 @@ papers:
     title: '70% Size, 100% Accuracy: Lossless LLM Compression for Efficient GPU Inference via Dynamic-Length Float (DFloat11)'
     year: '2025'
   ekRl428AAAAJ:MXK_kJrjxJIC:
-    citations: 502
+    citations: 505
     title: 'Stop overthinking: A survey on efficient reasoning for large language models'
     year: '2025'
   ekRl428AAAAJ:Se3iqnhoufwC:
@@ -46,7 +46,7 @@ papers:
     title: 'CoVE: Compressed Vocabulary Expansion Makes Better LLM-based Recommender Systems'
     year: '2025'
   ekRl428AAAAJ:YsMSGLbcyi4C:
-    citations: 25
+    citations: 24
     title: 'Nomad-attention: Efficient llm inference on cpus through multiply-add-free attention'
     year: '2024'
   ekRl428AAAAJ:_kc_bZDykSQC:
@@ -70,7 +70,7 @@ papers:
     title: 'IDentity with Locality: An Ideal Hash for Gene Sequence Search'
     year: '2025'
   ekRl428AAAAJ:mB3voiENLucC:
-    citations: 8
+    citations: 9
     title: 'Demystifying opd: Length inflation and stabilization strategies for large language models'
     year: '2026'
   ekRl428AAAAJ:qxL8FJ1GzNcC:
