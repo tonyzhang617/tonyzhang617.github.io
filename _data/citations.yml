@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-19'
 papers:
   ekRl428AAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -18,7 +18,7 @@ papers:
     title: '70% Size, 100% Accuracy: Lossless LLM Compression for Efficient GPU Inference via Dynamic-Length Float (DFloat11)'
     year: '2025'
   ekRl428AAAAJ:MXK_kJrjxJIC:
-    citations: 556
+    citations: 571
     title: 'Stop overthinking: A survey on efficient reasoning for large language models'
     year: '2025'
   ekRl428AAAAJ:Se3iqnhoufwC:
@@ -30,7 +30,7 @@ papers:
     title: "InvMixer\u2014An efficient deep neural network for seismic inversion"
     year: '2023'
   ekRl428AAAAJ:W7OEmFMy1HYC:
-    citations: 89
+    citations: 93
     title: 'KV Cache is 1 Bit Per Channel: Efficient Large Language Model Inference with Coupled Quantization'
     year: '2024'
   ekRl428AAAAJ:WF5omc3nYNoC:
@@ -46,11 +46,11 @@ papers:
     title: 'CoVE: Compressed Vocabulary Expansion Makes Better LLM-based Recommender Systems'
     year: '2025'
   ekRl428AAAAJ:YsMSGLbcyi4C:
-    citations: 28
+    citations: 30
     title: 'Nomad-attention: Efficient llm inference on cpus through multiply-add-free attention'
     year: '2024'
   ekRl428AAAAJ:_kc_bZDykSQC:
-    citations: 3
+    citations: 4
     title: To Compress or Not? Pushing the Frontier of Lossless GenAI Model Weights Compression with Exponent Concentration
     year: '2025'
   ekRl428AAAAJ:eQOLeE2rZwMC:
@@ -58,7 +58,7 @@ papers:
     title: 'HashOrder: Accelerating Graph Processing Through Hashing-based Reordering'
     year: '2024'
   ekRl428AAAAJ:hC7cP41nSMkC:
-    citations: 3
+    citations: 4
     title: TransactionGPT
     year: '2025'
   ekRl428AAAAJ:hFOr9nPyWt4C:
@@ -70,7 +70,7 @@ papers:
     title: 'IDentity with Locality: An Ideal Hash for Gene Sequence Search'
     year: '2025'
   ekRl428AAAAJ:mB3voiENLucC:
-    citations: 15
+    citations: 23
     title: 'Demystifying opd: Length inflation and stabilization strategies for large language models'
     year: '2026'
   ekRl428AAAAJ:qxL8FJ1GzNcC:
